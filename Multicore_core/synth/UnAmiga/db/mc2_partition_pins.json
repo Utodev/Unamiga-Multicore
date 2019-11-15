@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "joyX_p7_o",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b_o[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b_o[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b_o[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_hsync_n_o",
+					"strict" : false
+				},
+				{
+					"name" : "vga_vsync_n_o",
+					"strict" : false
+				},
+				{
+					"name" : "stm_rst_o",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_clk_io",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_data_io",
+					"strict" : false
+				},
+				{
+					"name" : "stm_b12_io",
+					"strict" : false
+				},
+				{
+					"name" : "stm_b13_io",
+					"strict" : false
+				},
+				{
+					"name" : "stm_b14_io",
+					"strict" : false
+				},
+				{
+					"name" : "stm_b15_io",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_down_i",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_left_i",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_right_i",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_up_i",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_p6_i",
+					"strict" : false
+				},
+				{
+					"name" : "joy1_p9_i",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

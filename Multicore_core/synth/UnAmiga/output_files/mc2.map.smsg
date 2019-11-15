@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at osd.sv(128): always construct contains both blocking and non-blocking assignments File: C:/Users/csanc/PersonalDrive/proyectos/Multicore/SPI/CORES/_Multicore_core/src/osd.sv Line: 128
+Info (10281): Verilog HDL Declaration information at vga.v(11): object "hs" differs only in case from object "HS" in the same scope File: C:/Users/csanc/PersonalDrive/proyectos/Multicore/SPI/CORES/_Multicore_core/src/vga.v Line: 11
+Info (10281): Verilog HDL Declaration information at vga.v(12): object "vs" differs only in case from object "VS" in the same scope File: C:/Users/csanc/PersonalDrive/proyectos/Multicore/SPI/CORES/_Multicore_core/src/vga.v Line: 12

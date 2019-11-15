@@ -1,0 +1,13 @@
+This code updates the UnAmiga multicore firmware and core. The code is based in a similar system 
+used by Victor Trucco's in his Multicore board, and is completely based on his code.
+
+Please notice Victor's code also comes from other authors work, so please feel free to ask for credit
+if you are one of the original designers of this multicore idea.
+
+Some changes have been made though:
+
+- You can press F1-F10 when over a core in the menu, and that specific key is assigned to that core
+- Once assigned, when you press that key the core is launched
+- If you want to remove key assignation, just move the cursor over the core and press "Del" key
+
+
